@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="max_black">
+    <file>icons8-maximize-window-100 (2).png</file>
+  </qresource>
+</RCC>
